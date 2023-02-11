@@ -1,0 +1,11 @@
+.sign-up-container {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem;
+}

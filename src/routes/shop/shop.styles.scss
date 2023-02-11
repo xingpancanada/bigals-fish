@@ -1,0 +1,17 @@
+.products-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 10px;
+    row-gap: 5px;
+}
+
+.shop-title{
+    padding-top: 1rem;
+}
+
+// .shop-container {
+//     display: grid;
+//     grid-template-columns: repeat(4, 1fr);
+//     column-gap: 10px;
+//     row-gap: 5px;
+// }
